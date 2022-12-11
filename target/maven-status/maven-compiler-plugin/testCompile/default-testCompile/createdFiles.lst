@@ -1,0 +1,14 @@
+pages\homePage.class
+stepDefs\searchFeatureSteps.class
+stepDefs\followUsFeatureSteps.class
+stepDefs\currenciesFeatureSteps.class
+stepDefs\loginFeatureSteps.class
+stepDefs\sliderFeatureSteps.class
+testRunner\simulator.class
+pages\registerPage.class
+pages\searchPage.class
+stepDefs\Hooks.class
+pages\loginPage.class
+stepDefs\hoverCategoriesSteps.class
+stepDefs\wishListFeatureSteps.class
+stepDefs\registerFeatureSteps.class

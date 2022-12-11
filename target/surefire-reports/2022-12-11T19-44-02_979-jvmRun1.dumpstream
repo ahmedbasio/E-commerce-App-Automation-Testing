@@ -1,0 +1,24 @@
+# Created at 2022-12-11T19:52:23.592
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[90m# stepDefs.wishListFeatureSteps.addProductToWishList()[0m'.
+
+# Created at 2022-12-11T19:52:23.657
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mThen [0m[32muser should get a success message[0m         [90m# stepDefs.wishListFeatureSteps.checkOnAddToWishMessage()[0m'.
+
+# Created at 2022-12-11T19:52:23.660
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '@regression'.
+
+# Created at 2022-12-11T19:52:23.662
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream 'Scenario: check on wish list cart                [90m# src/main/resources/features/wishList.feature:9[0m'.
+
+# Created at 2022-12-11T19:52:23.663
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mGiven [0m[32minitialize wish list feature[0m             [90m# stepDefs.wishListFeatureSteps.init()[0m'.
+
+# Created at 2022-12-11T19:52:23.665
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mWhen [0m[32muser select to add HTC phone to wish list[0m [90m# stepDefs.wishListFeatureSteps.addProductToWishList()[0m'.
+
+# Created at 2022-12-11T19:52:23.668
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mAnd [0m[32mclick on wish list[0m                         [90m# stepDefs.wishListFeatureSteps.clickOnWishList()[0m'.
+
+# Created at 2022-12-11T19:52:23.812
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '  [32mThen [0m[32muser should find the product[0m              [90m# stepDefs.wishListFeatureSteps.checkOnProduct()[0m'.
+
